@@ -1,0 +1,32 @@
+{
+  "samples": 51821,
+  "boards": 96,
+  "positive_fraction": 0.07091719573146021,
+  "mean_reward": 0.00032604112439551847,
+  "fit_mae": 0.0012393739602333943,
+  "importances": {
+    "kind": 0.0,
+    "source_pos": 0.0,
+    "target_pos": 0.023730715222716685,
+    "release_work": 0.12373674399310179,
+    "capture_saved": 0.3439267329954106,
+    "travel_saved": 0.09950154562493524,
+    "removed": 0.0,
+    "source_load": 0.0,
+    "target_load": 0.00539932597859796,
+    "moved_load": 0.0,
+    "source_size": 0.0,
+    "target_size": 0.0,
+    "stage_share": 0.32995522428009455,
+    "inspection_share": 0.0,
+    "recon_share": 0.0,
+    "n_fov": 0.01235575781286289,
+    "n_jobs": 0.0049425194474133315,
+    "core": 0.008801590500347456,
+    "tail_work": 0.0,
+    "tail_pos": 0.04764984414451956,
+    "slack_x": 0.0,
+    "slack_y": 0.0,
+    "critical_release_delta": 0.0
+  }
+}

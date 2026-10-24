@@ -1,0 +1,7 @@
+solver,total_score,greedy_score,improvement_pct,boards_better,valid
+greedy,28754.67,28754.67,0.00,0,96
+yumin_solver,16048.14,28754.67,44.19,93,96
+yumin_solver_2,13677.78,28754.67,52.43,96,96
+yumin_solver_3,13321.07,28754.67,53.67,96,96
+yumin_solver_4,13238.38,28754.67,53.96,96,96
+yumin_solver_5,13238.67,28754.67,53.96,96,96

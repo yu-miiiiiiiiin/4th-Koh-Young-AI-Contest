@@ -1,0 +1,24 @@
+{
+  "date_local": "2026-10-03",
+  "timezone": "Asia/Seoul",
+  "python": "3.14.6 (v3.14.6:c63aec69bd5, Jun 10 2026, 08:07:54) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "objective": "sum(CT + 10*core + measured plan runtime)",
+  "seconds": 0.03,
+  "bscale": 0.8,
+  "repetitions": 1,
+  "evaluation": "raw output without penalty repair; official Checker plus dedicated fiducial checks",
+  "source_sha256": {
+    "yumin_solver_6/__init__.py": "8281397e33b1c8e10e200910a36b33e10f1d82ab5af9669bb92e060959e1cb2f",
+    "yumin_solver_6/benchmark.py": "f6958e7e63240bf64833a7d1eea847e647ca6902094c19ce5453afde3898d84f",
+    "yumin_solver_6/planner.py": "1f0baa8f95ed3c7841c9ca3a2f1118e9948f91641fe12f54891a8d69f73cd8ea",
+    "yumin_solver_6/qp.py": "3a642fe979e566d232be180cd63f514fc743d6c48ccc08f6eef2fb5907e9d46d",
+    "yumin_solver_6/solver.py": "cf5b8aee93bba5ca9236e50ac4d8762f2bb4de77243139d0050605f328ef2661",
+    "yumin_solver_6/test_solver.py": "b50e8de7a5f5da6bb82341df8b46664d0b410ff905c9f0a3437715b823614fa6"
+  },
+  "datasets": {
+    "practice": "simulation_data",
+    "holdout": "robustness_data/holdout_seed_51001"
+  },
+  "note": "ablation is an earlier development run (0.08s, uncached routes); ablation_final uses final source"
+}
